@@ -48,6 +48,6 @@ AI 识别错误如果直接变成工单，会把成本转移给开发团队。�
 
 从 0 到 1 把 AI 接入具体业务；解释 AI 与规则的职责；兼顾误操作成本、用户控制、接口异常及上线维护。
 
-[演示页面](demos/support-agent.html) · [GitHub 主页](https://github.com/capybarra1)
+[在线交互演示](https://capybarra1.github.io/support-agent-demo/demos/support-agent.html) · [GitHub 主页](https://github.com/capybarra1)
 
-在在线介绍页点击“体验交互演示”；也可以下载仓库后本地打开 demos/support-agent.html。
+在在线介绍页点击“演示页面”；也可以下载仓库后本地打开 demos/support-agent.html。
